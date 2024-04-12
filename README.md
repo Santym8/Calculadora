@@ -8,4 +8,4 @@ Calculadara desarrollada en clase de Aplicaciones Móviles UTN
 
 ## Capturas de Pantalla
 
-![Aplicacion Estado Inicial](https://photos.app.goo.gl/imhVAH7CD27vMRP39)
+![Aplicacion Estado Inicial](img/WhatsApp Image 2024-04-12 at 17.15.15_02ffa16d.jpg)
