@@ -2,29 +2,30 @@
 
 Calculadara desarrollada en clase de Aplicaciones Móviles UTN
 
-## Funciones Principales
+## Función Principal
 
-- **Función**: La calculadora puede realizar las 4 operaciones báscias
+La calculadora puede realizar las 4 operaciones báscias
 
 ## Capturas de Pantalla
 
-### Aplicación Estado Inicial
-![Aplicacion Estado Inicial](https://github.com/Santym8/Calculadora/blob/main/img/WhatsApp%20Image%202024-04-12%20at%2017.15.15_02ffa16d.jpg?raw=true)
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
 
-### Aplicación Suma
-![Aplicación Suma](https://github.com/Santym8/Calculadora/blob/main/img/WhatsApp%20Image%202024-04-12%20at%2017.15.15_bc106523.jpg?raw=true)
+<img style="margin: 5px;" src="https://github.com/Santym8/Calculadora/blob/main/img/WhatsApp%20Image%202024-04-12%20at%2017.15.15_02ffa16d.jpg?raw=true" alt="Captura de pantalla de la aplicación" width="300">
 
-### Aplicación Resta
-![Aplicación Resta](https://github.com/Santym8/Calculadora/blob/main/img/WhatsApp%20Image%202024-04-12%20at%2017.15.15_d5968fba.jpg?raw=true)
+<img style="margin: 5px;" src="https://github.com/Santym8/Calculadora/blob/main/img/WhatsApp%20Image%202024-04-12%20at%2017.15.15_bc106523.jpg?raw=true" alt="Suma" width="300">
 
-### Aplicación Multiplicación
-![Aplicación Multiplicación](https://github.com/Santym8/Calculadora/blob/main/img/WhatsApp%20Image%202024-04-12%20at%2017.15.15_3077ed3d.jpg?raw=true)
+<img style="margin: 5px;" src="https://github.com/Santym8/Calculadora/blob/main/img/WhatsApp%20Image%202024-04-12%20at%2017.15.15_d5968fba.jpg?raw=true" alt="Resta" width="300">
 
-### Aplicación División
-![Aplicación División](https://github.com/Santym8/Calculadora/blob/main/img/WhatsApp%20Image%202024-04-12%20at%2017.15.16_33b62767.jpg?raw=true)
 
-### Mensaje de Error
-![Mensaje de Error](https://github.com/Santym8/Calculadora/blob/main/img/WhatsApp%20Image%202024-04-12%20at%2017.15.16_653ab427.jpg?raw=true)
+<img style="margin: 5px;" src="https://github.com/Santym8/Calculadora/blob/main/img/WhatsApp%20Image%202024-04-12%20at%2017.15.15_3077ed3d.jpg?raw=true" alt="Multiplicación" width="300">
+
+<img style="margin: 5px;" src="https://github.com/Santym8/Calculadora/blob/main/img/WhatsApp%20Image%202024-04-12%20at%2017.15.16_33b62767.jpg?raw=true" alt="División" width="300">
+
+<img style="margin: 5px;" src="https://github.com/Santym8/Calculadora/blob/main/img/WhatsApp%20Image%202024-04-12%20at%2017.15.16_653ab427.jpg?raw=true" alt="Mensaje Error" width="300">
+
+</div>
+
+
 
 
 
